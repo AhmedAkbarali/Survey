@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551cf154-31c7-427e-8b60-3a4ef73b2598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Payments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/setupProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/requireLogin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/billingRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Payments.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Payments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/requireLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/requireLogin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/billingRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/billingRoutes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +23,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-79" />
-    <option name="y" value="-11" />
-    <option name="width" value="1815" />
-    <option name="height" value="988" />
-  </component>
   <component name="ProjectId" id="1P0mk62nUZijXtOEotC8HVXl9m2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -50,7 +33,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,7 +69,11 @@
       <workItem from="1564667868212" duration="755000" />
       <workItem from="1565017518451" duration="701000" />
       <workItem from="1565018329879" duration="471000" />
-      <workItem from="1565019536112" duration="4875000" />
+      <workItem from="1565019536112" duration="8314000" />
+      <workItem from="1565118294394" duration="599000" />
+      <workItem from="1565801666140" duration="5945000" />
+      <workItem from="1565898986644" duration="3574000" />
+      <workItem from="1566146981867" duration="1442000" />
     </task>
     <servers />
   </component>
@@ -98,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
