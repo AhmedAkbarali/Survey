@@ -2,14 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551cf154-31c7-427e-8b60-3a4ef73b2598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyFormReview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyNew.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/formFields.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/surveysReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/validateEmails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/requireCredits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Recipient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Survey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/surveyRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/Mailer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/emailTemplates/surveyTemplate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Payments.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Payments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middlewares/requireLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/requireLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/billingRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/billingRoutes.js" afterDir="false" />
     </list>
@@ -29,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.0" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -73,7 +92,35 @@
       <workItem from="1565118294394" duration="599000" />
       <workItem from="1565801666140" duration="5945000" />
       <workItem from="1565898986644" duration="3574000" />
-      <workItem from="1566146981867" duration="1442000" />
+      <workItem from="1566146981867" duration="3576000" />
+      <workItem from="1566488324939" duration="599000" />
+      <workItem from="1566839114017" duration="599000" />
+      <workItem from="1566930265199" duration="599000" />
+      <workItem from="1567003749982" duration="1687000" />
+      <workItem from="1567094862897" duration="47000" />
+      <workItem from="1567095010465" duration="621000" />
+      <workItem from="1567105576288" duration="2344000" />
+      <workItem from="1567178391822" duration="599000" />
+      <workItem from="1567439155820" duration="301000" />
+      <workItem from="1570792324512" duration="3680000" />
+      <workItem from="1571058369489" duration="790000" />
+      <workItem from="1571177410595" duration="599000" />
+      <workItem from="1571584108537" duration="599000" />
+      <workItem from="1571668197899" duration="585000" />
+      <workItem from="1571754136002" duration="8719000" />
+      <workItem from="1571839053197" duration="599000" />
+      <workItem from="1572014038677" duration="1249000" />
+      <workItem from="1572107391358" duration="4274000" />
+      <workItem from="1572187282426" duration="4941000" />
+      <workItem from="1572363271558" duration="598000" />
+      <workItem from="1573657498197" duration="599000" />
+      <workItem from="1574177350363" duration="5712000" />
+      <workItem from="1574264459799" duration="5506000" />
+      <workItem from="1574349328523" duration="2896000" />
+      <workItem from="1574693225130" duration="4636000" />
+      <workItem from="1574708803156" duration="3586000" />
+      <workItem from="1574869198824" duration="5604000" />
+      <workItem from="1574954344828" duration="9115000" />
     </task>
     <servers />
   </component>
