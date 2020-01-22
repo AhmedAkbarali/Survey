@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551cf154-31c7-427e-8b60-3a4ef73b2598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyFormReview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyNew.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/surveys/formFields.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/surveysReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/validateEmails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/requireCredits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Recipient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Survey.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/surveyRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Mailer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/emailTemplates/surveyTemplate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/billingRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/billingRoutes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +92,24 @@
       <workItem from="1574693225130" duration="4636000" />
       <workItem from="1574708803156" duration="3586000" />
       <workItem from="1574869198824" duration="5604000" />
-      <workItem from="1574954344828" duration="9115000" />
+      <workItem from="1574954344828" duration="9795000" />
+      <workItem from="1575040876091" duration="599000" />
+      <workItem from="1575136120802" duration="1338000" />
+      <workItem from="1575308944350" duration="2576000" />
+      <workItem from="1575390466217" duration="2519000" />
+      <workItem from="1575493157336" duration="5009000" />
+      <workItem from="1575561159148" duration="1244000" />
+      <workItem from="1575569885176" duration="278000" />
+      <workItem from="1578543879897" duration="1529000" />
+      <workItem from="1578590814333" duration="1270000" />
+      <workItem from="1578675915353" duration="599000" />
+      <workItem from="1578890417219" duration="881000" />
+      <workItem from="1578932583801" duration="598000" />
+      <workItem from="1579026021340" duration="599000" />
+      <workItem from="1579106575347" duration="599000" />
+      <workItem from="1579194003996" duration="599000" />
+      <workItem from="1579204801835" duration="595000" />
+      <workItem from="1579279260841" duration="599000" />
     </task>
     <servers />
   </component>
